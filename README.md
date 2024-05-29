@@ -37,7 +37,7 @@ This project, developed using Python for the San Diego State University Artifici
 
 - **API Integration:** Consider integrating with a dedicated API for fetching song lyrics to ensure stability and reliability in the lyrics retrieval process.
 - **Enhanced Text Cleaning:** Implement more advanced text cleaning techniques using regex to handle a wider range of patterns and improve the quality of generated lyrics.
-- **Advanced Generation Techniques:** Explore advanced generation techniques beyond Markov chains, such as LSTM and recurrent networks, to enhance the quality and variability of generated lyrics.
+- **Advanced Generation Techniques:** Explore advanced generation techniques beyond Markov chains to enhance the quality and variability of generated lyrics.
 
 ## Usage
 
