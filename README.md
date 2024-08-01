@@ -35,8 +35,7 @@ This project, developed using Python for the San Diego State University Artifici
 
 ## Future Improvements
 
-- **API Integration:** Consider integrating with a dedicated API for fetching song lyrics to ensure stability and reliability in the lyrics retrieval process.
-- **Enhanced Text Cleaning:** Implement more advanced text cleaning techniques using regex to handle a wider range of patterns and improve the quality of generated lyrics.
+- **Explore Alternative APIs:** Consider using actively maintained lyrics API or developing a custom API to ensure clean and accurate lyrics.
 - **Advanced Generation Techniques:** Explore advanced generation techniques beyond Markov chains to enhance the quality and variability of generated lyrics.
 
 ## Usage
